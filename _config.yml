@@ -105,5 +105,5 @@ theme: fluid
 deploy:
  type: git
  repository: git@github.com:Lijie0981/Lijie0981.github.io.git
- branch: master
+ branch: pages
  plugins: -hexo-generator-feed
